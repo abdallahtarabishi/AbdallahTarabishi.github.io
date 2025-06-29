@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdallahtarabishi.github.io/sitemap.xml
